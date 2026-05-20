@@ -19,6 +19,8 @@ tags:
   - Tribal
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/national-indian-gaming-commission
   - type: Website
     url: https://www.nigc.gov/
   - type: ContactUs
