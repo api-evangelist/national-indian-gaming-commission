@@ -19,6 +19,10 @@ tags:
   - Tribal
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/national-indian-gaming-commission-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/national-indian-gaming-commission-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/national-indian-gaming-commission
   - type: Website
