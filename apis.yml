@@ -35,7 +35,7 @@ created: '2024-12-25'
 modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
-  - Federal-Government
+  - Federal Government
   - Gaming
   - Regulations
   - Tribal
@@ -44,6 +44,7 @@ tags_raw:
   - Gaming
   - Regulation
   - Tribal
+  - Federal-Government
 apis: []
 common:
   - type: VulnerabilityDisclosure
